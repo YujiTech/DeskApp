@@ -8,7 +8,7 @@ We would love to see how you use this awesome admin template. You can notify us 
 
 # Quick start
 Several quick start options are available:
-* Clone the repo: git clone https://github.com/dropways/deskapp.git
+* Clone the repo: git clone https://github.com/YujiTech/dDeskApp.git
 * Install with npm: 
   `npm install deskapp`
 
