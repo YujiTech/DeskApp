@@ -42,15 +42,9 @@ Several quick start options are available:
 * Timedropper
 
 ## Sample Screens
-<img src="https://user-images.githubusercontent.com/38377336/86491687-03ca9a00-bd89-11ea-8a3a-11dcfcddd254.png" alt="Template 1">
-
-## Demo link
-A fully functional demo is available at
-
-- demo 1 https://dropways.github.io/deskapp/
-- demo 2 https://deskapp-dashboard.herokuapp.com/
-- demo 3 https://deskapp.netlify.app/
-
+<img src="https://github.com/user-attachments/assets/e2ff3c93-8eac-4b2d-8527-ccb490dfc425" alt="Template 1">  
+ 
+ 
 ## Bugs Reports
 Have a bug or a feature request? Please open a new issue.
 
